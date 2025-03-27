@@ -1,5 +1,6 @@
 {
-"version": "1.0.1",
-"url": "https://github.com/GitGreenDinosaur/TraeNoteDemo/blob/master/app/release/app-release.apk"
-
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateMessage": "1. 修复了笔记同步功能的稳定性问题\n2. 优化了应用启动速度和整体性能\n3. 添加了新的笔记模板功能\n4. 改进了夜间模式的显示效果\n5. 修复了一些已知的崩溃问题",
+  "apkUrl": "https://github.com/GitGreenDinosaur/TraeNoteDemo/blob/master/app/release/app-release.apk"
 }
